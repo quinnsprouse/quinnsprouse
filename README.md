@@ -11,7 +11,7 @@ I build tools that help coding agents write real software. Away from the keyboar
 </p>
 
 <p>
-<a href="https://www.pocketgr.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/photos-dark.jpg"><img src="assets/photos-light.jpg" width="100%" alt="I like photography, shot on a Ricoh GR III. Photos from pocketgr.com: a hiker on a golden ridge on Mt Lemmon, a convex street mirror, a red basketball court, and sea stacks at sunset."></picture></a>
+<a href="https://www.pocketgr.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/photos-dark.webp"><img src="assets/photos-light.webp" width="100%" alt="I like photography, shot on a Ricoh GR III. Photos from pocketgr.com: a hiker on a golden ridge on Mt Lemmon, a convex street mirror, a red basketball court, and sea stacks at sunset."></picture></a>
 </p>
 
 <details>
