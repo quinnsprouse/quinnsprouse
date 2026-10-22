@@ -1,4 +1,4 @@
-# Howdy, I'm Quinn.
+# I'm Quinn.
 
 I build tools that help coding agents write real software. Away from the keyboard, I'm usually out with a camera.
 
